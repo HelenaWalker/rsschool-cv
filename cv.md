@@ -68,7 +68,7 @@ PhotoShop and InDesign practice. Making ebooks (epub) practice, using HTML and C
 
 # Education
 
-Wed-design courses in Belarusian State Technological University.
+Web-design courses in Belarusian State Technological University.
 CS50 courses.
 Codeacademy courses: Introduction to HTML, Learn CSS.
 
