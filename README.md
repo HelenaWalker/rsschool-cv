@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/HelenaWalker/rsschool-cv/blob/gh-pages/cv.md
