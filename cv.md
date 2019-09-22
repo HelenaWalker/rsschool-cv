@@ -55,12 +55,12 @@ num = prompt ("Введите число больше 100", 0);
 
 # Experience
 
-Wed-design courses, 2016 – 2017.
+**Web-design courses, 2016 – 2017**
 
 One semester project and one diploma project.
 
 
-“Электронная кнігарня”, 02.04.2017 - 23.05.2019
+**“Электронная кнігарня”, 02.04.2017 - 23.05.2019**
 
 Position: technical editor.
 
