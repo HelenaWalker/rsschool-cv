@@ -10,3 +10,9 @@ body {
     position: relative;
     left: 10px;
 }
+
+img {
+    width: 15%;
+    height: 15%;
+    display: inline;
+}
