@@ -1,0 +1,18 @@
+body {
+    font-family: "Roboto", sans-serif;
+    display: block;
+    max-width: 1024px;
+    margin: auto;
+
+}
+
+.code {
+    position: relative;
+    left: 10px;
+}
+
+img {
+    width: 15%;
+    height: 15%;
+    display: inline;
+}
